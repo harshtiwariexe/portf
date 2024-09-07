@@ -43,7 +43,7 @@ const projects = [
   },
   {
     title: "Payment Website",
-    description: "Payment website for transferring aand recieving money",
+    description: "Payment website for transferring and receiving money",
     image: "/assets/paytm.jpg",
     href: "https://github.com/harshtiwariexe/payment-app",
   },
